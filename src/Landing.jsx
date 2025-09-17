@@ -96,14 +96,14 @@ const Landing = () => {
             <section>
               <div className="space-y-6 text-sm leading-relaxed">
                 <p>
-                  I'm a Computer Engineering student at Yıldız Technical University, and my research focuses on Artificial Intelligence. My main areas of interest are Self-Supervised Learning (SSL) and Reinforcement Learning (RL). Currently, I'm working on how to make Multi-Agent Reinforcement Learning (MARL) algorithms learn more effectively. In this website, I will write my thoughts as blog posts and share my work.
+                  I am a Computer Engineering student at Yildiz Technical University with primary research interests in Self-Supervised Learning (SSL) and Reinforcement Learning (RL). Currently, I am focusing on improving the effectiveness of Multi-Agent Reinforcement Learning (MARL) algorithms.
                 </p>
                 <p>
-                  Outside of my studies, I'm a big fan of Formula 1 and motor racing. I enjoy reading books across all kinds of subjects and love discussing new ideas. I'm also a huge fan of video games, and I have a real passion for computer hardware and working with different parts.
+                  Outside of my studies, I'm a big fan of Formula 1 and motorsports. I also have a strong interest in computer hardware, especially building and experimenting with different components.
                 </p>
                 <div className="pt-4">
                   <a 
-                    href="/cv.pdf" 
+                    href="/CV.pdf" 
                     download="Babak_Ranjbaran_CV.pdf"
                     className="inline-flex items-center px-4 py-2 text-sm border border-gray-300 hover:border-gray-400 transition-colors duration-200 hover:bg-gray-50"
                   >
